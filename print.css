@@ -1,0 +1,7 @@
+.printable {
+	display: show !important;
+}
+
+.non-printable {
+	display: none !important;
+}

@@ -6,7 +6,7 @@ Just add this line between **<head>** and **</head>** tags in your pages.
 And use
 > .non-printable
 
-class for things you do not want to print.
+class for things that you do not want to print.
 
 Or use 
 > .printable

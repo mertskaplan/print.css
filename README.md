@@ -1,6 +1,6 @@
 # Printable pages with 'print.css'
 ##### It's simple!
-Just add this line between **<head>** and **</head>** tags in your pages.
+Just add this line between **&lt;head&gt;** and **&lt;/head&gt;** tags in your pages.
 > &lt;link rel=&quot;stylesheet&quot; href=&quot;print.css&quot; media=&quot;print&quot;&gt;
 
 And use

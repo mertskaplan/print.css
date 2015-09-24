@@ -16,3 +16,6 @@ class for invisible things that you want to print.
 
 ### A simple example:
 > &lt;div class=&quot;non-printable alert&quot;&gt;Status was changed successfuly.&lt;/div&gt;
+
+### License
+Under MIT license.
